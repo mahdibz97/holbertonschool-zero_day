@@ -1,1 +1,1 @@
-emacs task
+emacs tasks
